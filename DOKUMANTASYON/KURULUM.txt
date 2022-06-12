@@ -1,1 +1,4 @@
-3DES SİFRELEME\3DES_S-FRELEME\3DES_Sifreleme\bin\Debug KLasoru ıcerısındeki exe calıstırınız.Vıdeodaki örneği kullanabilirsiniz.
+1- 3DES SİFRELEME\\3DES_Sifreleme\bin\Debug KLasoru ıcerısındeki exe calıstırınız.Vıdeodaki örneği kullanabilirsiniz.
+https://github.com/mucahit1/3DES_SIFRELEME/tree/main/3DES_Sifreleme/bin/Debug
+
+2-PROJEYI RAR OLARAK INDIRIP YINE AYNI YOLDAKI EXEYI CALISTIRINIZ
