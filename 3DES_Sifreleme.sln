@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DES_Sifreleme", "3DES_Sifreleme\3DES_Sifreleme.csproj", "{BF5A6A41-5781-4520-98E9-4CBABBAED790}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "3DES", "3DES\3DES.vdproj", "{8E50E27E-6618-4B2E-8EAC-B648E159551E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5A6A41-5781-4520-98E9-4CBABBAED790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5A6A41-5781-4520-98E9-4CBABBAED790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5A6A41-5781-4520-98E9-4CBABBAED790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5A6A41-5781-4520-98E9-4CBABBAED790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E50E27E-6618-4B2E-8EAC-B648E159551E}.Debug|Any CPU.ActiveCfg = Debug
+		{8E50E27E-6618-4B2E-8EAC-B648E159551E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C942AB5-5CEA-4559-9419-651A8DAE4EE1}
+	EndGlobalSection
+EndGlobal
